@@ -1,0 +1,175 @@
+*	Project         	Projet_IF02P14
++	Class           	ACTIVITE EN REGIE
++	Class           	Annonce
++	UseCase         	Attacher une annonce à un client
++	Class           	BNK CONSEIL
++	Class           	BNK EDITION
++	Class           	BNK INFORMATIQUE
++	Class           	BNK INSTITUT
++	Class           	BNK RESEAUX
++	Class           	Back
++	Class           	Back-Office
++	Class           	CV
++	Class           	Chargé d'affaire
++	Actor           	ChargéD'affaire
++	Class           	Chef de mission
++	Class           	Class5
++	Class           	Client
++	Class           	Comptabilité
++	Class           	Comptes rendus
++	Class           	Consultant en régie
++	Class           	Consultant à Paris
++	Class           	Contrat
++	Class           	Departement
++	package         	Diagramme d'activité
+-	package         	Diagramme d'activité fournisseurs
+-	Activity Diagram	Diagramme d'activité fournisseurs/Gestion des contrats
+-	Activity Diagram	Diagramme d'activité fournisseurs/Gestion des demandes clients
+-	Activity Diagram	Diagramme d'activité fournisseurs/Gestion des factures
++	Activity Diagram	Diagramme d'activité/Activite_GestionFournisseur
++	package         	Diagramme de classes
++	Class Diagram   	Diagramme de classes/Classes_GestionFournisseur
+*	package         	Diagramme de séquence
+*	Actor           	Diagramme de séquence/Actor0
+*	Actor           	Diagramme de séquence/Actor1
++	Actor           	Diagramme de séquence/Actor2
++	Class           	Diagramme de séquence/Class0
+-	Sequence Diagram	Diagramme de séquence/Sequence AttacherAnnonce
++	Sequence Diagram	Diagramme de séquence/Sequence_AffectationRelationClientFournisseur
+-	Sequence Diagram	Diagramme de séquence/Sequence_AttacherContrat
++	Sequence Diagram	Diagramme de séquence/Sequence_GestionFacture
++	Sequence Diagram	Diagramme de séquence/Sequence_PlanifierEntretien
++	package         	Diagramme des cas d'utilisation
++	UseCase         	Diagramme des cas d'utilisation/Affecter une relation entre un fournisseur et un client
++	UseCase         	Diagramme des cas d'utilisation/Ajouter au référentiel des contrats
++	UseCase         	Diagramme des cas d'utilisation/Ajouter un compte rendu à un suivi
++	UseCase         	Diagramme des cas d'utilisation/Archiver une facture
++	UseCase         	Diagramme des cas d'utilisation/Attacher un CV à un fournisseur
++	UseCase         	Diagramme des cas d'utilisation/Attacher un contrat
++	UseCase         	Diagramme des cas d'utilisation/Attacher un contrat à un client
++	UseCase         	Diagramme des cas d'utilisation/Attacher un contrat à un fournisseur
++	UseCase         	Diagramme des cas d'utilisation/Attacher une demande à un client
++	Actor           	Diagramme des cas d'utilisation/Back-office
++	UseCase Diagram 	Diagramme des cas d'utilisation/CU_GestionFournisseur
++	Actor           	Diagramme des cas d'utilisation/Comptabilité
++	UseCase         	Diagramme des cas d'utilisation/Contrôler les comptes rendus
++	UseCase         	Diagramme des cas d'utilisation/Editer un contrat type
++	UseCase         	Diagramme des cas d'utilisation/Enregistrer l'exécution comptable
++	UseCase         	Diagramme des cas d'utilisation/Etablir une facture
++	UseCase         	Diagramme des cas d'utilisation/Gérer la gestion des factures
++	UseCase         	Diagramme des cas d'utilisation/Planifier un entretien client/fournisseur
++	UseCase         	Diagramme des cas d'utilisation/Rattacher les comptes rendus mensuels à un fournisseur
++	UseCase         	Diagramme des cas d'utilisation/Régler une facture
++	UseCase         	Diagramme des cas d'utilisation/Transmettre une annonce à un fournisseur
++	UseCase         	Diagramme des cas d'utilisation/Visualiser les fournisseurs
++	UseCase         	Diagramme des cas d'utilisation/Visualiser les profils rattachés aux fournisseurs
++	Class           	Directeur Ressources humaines
++	Class           	Directeur de mission
++	Class           	Directeur du pôle conseil
++	Class           	Direction Général
++	Class           	Direction commerciale
++	Class           	Direction financière
++	Class           	Facture
++	Class           	File
++	Class           	Fournisseur
++	package         	Hierarchie
++	Class Diagram   	Hierarchie/Hierarchie BNK F
++	Class Diagram   	Hierarchie/Hierarchie BNK I
++	package         	Modele de domaine
++	Class Diagram   	Modele de domaine/Domaine_GestionFournisseur
++	Class           	Planning
++	Class           	Référentiel des contrats
++	Class           	Secretariat
++	Class           	Service commercial
++	Class           	Service comptabilité
++	Class           	Société BNK
++	Class           	Suivi
++	Class           	TicketEntretien
++	package         	java
++	package         	java/lang
++	Class           	java/lang/AbstractStringBuilder
++	Interface       	java/lang/Appendable
++	Class           	java/lang/Boolean
++	Class           	java/lang/Byte
++	Interface       	java/lang/CharSequence
++	Class           	java/lang/Character
++	Class           	java/lang/Class
++	Interface       	java/lang/Cloneable
++	Interface       	java/lang/Comparable
++	Class           	java/lang/Double
++	Class           	java/lang/Enum
++	Class           	java/lang/Exception
++	Class           	java/lang/Float
++	Class           	java/lang/Integer
++	Interface       	java/lang/Iterable
++	Class           	java/lang/Long
++	Class           	java/lang/Math
++	Class           	java/lang/Number
++	Class           	java/lang/Object
++	Class           	java/lang/ProcessBuilder
++	Interface       	java/lang/Readable
++	Interface       	java/lang/Runnable
++	Class           	java/lang/Short
++	Class           	java/lang/String
++	Class           	java/lang/StringBuffer
++	Class           	java/lang/StringBuilder
++	Class           	java/lang/System
++	Class           	java/lang/Thread
++	Class           	java/lang/Throwable
++	Class           	java/lang/Void
++	package         	java/util
++	Class           	java/util/AbstractQueue
++	Class           	java/util/ArrayDeque
++	Class           	java/util/ArrayList
++	Class           	java/util/Arrays
++	Class           	java/util/BitSet
++	Interface       	java/util/BlockingDeque
++	Interface       	java/util/BlockingQueue
++	Class           	java/util/Calendar
++	Interface       	java/util/Collection
++	Class           	java/util/Collections
++	Interface       	java/util/Comparator
++	Class           	java/util/ConcurrentSkipListMap
++	Class           	java/util/ConcurrentSkipListSet
++	Class           	java/util/Currency
++	Class           	java/util/Date
++	Interface       	java/util/Deque
++	Class           	java/util/Dictionary
++	Class           	java/util/EnumMap
++	Class           	java/util/EnumSet
++	Interface       	java/util/Enumeration
++	Interface       	java/util/EventListener
++	Class           	java/util/EventListenerProxy
++	Class           	java/util/EventObject
++	Interface       	java/util/Formattable
++	Class           	java/util/FormattableFlags
++	Class           	java/util/Formatter
++	Class           	java/util/HashMap
++	Class           	java/util/HashSet
++	Class           	java/util/Hashtable
++	Class           	java/util/IdentityHashMap
++	Interface       	java/util/Iterator
++	Class           	java/util/LinkedHashMap
++	Class           	java/util/LinkedHashSet
++	Class           	java/util/LinkedList
++	Interface       	java/util/List
++	Interface       	java/util/ListIterator
++	Interface       	java/util/Map
++	Interface       	java/util/NavigableSet
++	Class           	java/util/Observable
++	Interface       	java/util/Observer
++	Class           	java/util/PriorityQueue
++	Interface       	java/util/Queue
++	Interface       	java/util/RandomAccess
++	Class           	java/util/Scanner
++	Class           	java/util/ServiceLoader
++	Interface       	java/util/Set
++	Interface       	java/util/SortedMap
++	Interface       	java/util/SortedSet
++	Class           	java/util/Stack
++	Class           	java/util/StringTokenizer
++	Class           	java/util/TreeMap
++	Class           	java/util/TreeSet
++	Class           	java/util/UUID
++	Class           	java/util/Vector
++	Class           	java/util/WeakHashMap
