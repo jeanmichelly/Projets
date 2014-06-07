@@ -1,0 +1,5 @@
+- Centrer AnnonceClient entre \253\240Transmettre aux fournisseurs\240\273 et \253\240Envoyer CV\240\273
+- Rajouter entre \253\240Trier CV et transmettre a charg\351 d\u2019affaire\240\273 et \253\240Rencontre Candidats et s\351lectionner\240\273 un objet \253\240CV\240\273
+- Editer \253\240Rencontrer candidats et s\351lectionner\240\273 en \253\240Rencontrer et s\351lectionner les candidats\240\273
+- Rajouter une action entre \253\240Rencontrer et s\351lectionner les candidats\240\273 et \253\240Valider candidats potentiels\240\273 dans Charg\351 d\u2019affaire : \253\240Transmettre CV\240\273
+-Rajouter entre \253\240Transmettre CV\240\273 et \253\240Valider candidats potentiels\240\273 un objet \253\240CV\240\273
